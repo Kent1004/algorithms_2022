@@ -25,7 +25,7 @@ if __name__ == '__main__':
     dc_obj = DequeClass()
     print(dc_obj.is_empty())  # -> True
 
-    # добавить элементы в хвост
+    # добавить элементы в  хвост
     dc_obj.add_to_rear(10)
     dc_obj.add_to_rear('my_str')
 
